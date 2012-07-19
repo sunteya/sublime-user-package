@@ -1,0 +1,40 @@
+{
+	"auto_upgrade_last_run": 1342707843,
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Clipboard History",
+		"CoffeeScript",
+		"Color Scheme - Frontend Delight",
+		"ColorPicker",
+		"CTags",
+		"DetectSyntax",
+		"EncodingHelper",
+		"ERB Insert and Toggle Commands",
+		"INI",
+		"jQuery",
+		"JsFormat",
+		"MarkdownEditing",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Latest Migration",
+		"SCSS",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"SortTabs",
+		"Tag",
+		"Theme - Aqua",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"View In Browser"
+	],
+	"repositories":
+	[
+		"http://github.com/ttscoff/MarkdownEditing"
+	]
+}

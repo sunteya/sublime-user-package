@@ -1,8 +1,7 @@
 {
-	"auto_upgrade_last_run": 1342707843,
+	"auto_upgrade_last_run": 1342787584,
 	"installed_packages":
 	[
-		"Abacus",
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",

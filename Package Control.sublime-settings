@@ -1,10 +1,9 @@
 {
-	"auto_upgrade_last_run": 1342787584,
+	"auto_upgrade_last_run": 1342843091,
 	"installed_packages":
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
-		"BracketHighlighter",
 		"Case Conversion",
 		"Clipboard History",
 		"CoffeeScript",
@@ -15,22 +14,20 @@
 		"EncodingHelper",
 		"ERB Insert and Toggle Commands",
 		"INI",
-		"jQuery",
 		"JsFormat",
 		"MarkdownEditing",
 		"nginx",
 		"Package Control",
-		"Pretty JSON",
 		"Rails Latest Migration",
+		"rsub",
 		"SCSS",
 		"SideBarEnhancements",
 		"Simple Rails Navigator",
-		"SortTabs",
 		"Tag",
 		"Theme - Aqua",
+		"Theme - Refined",
 		"Theme - Soda",
-		"ToggleQuotes",
-		"View In Browser"
+		"ToggleQuotes"
 	],
 	"repositories":
 	[

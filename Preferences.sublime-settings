@@ -1,13 +1,13 @@
 {
-	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Monokai Aqua.tmTheme",
+	"color_scheme": "Packages/Theme - Refined/Color Schemes/Monokai Refined.tmTheme",
 	"draw_white_space": "all",
 	"font_size": 13.0,
 	"ignored_packages":
 	[
-		"Vintage",
-		"BracketHighlighter"
+		"Vintage"
 	],
 	"scroll_past_end": true,
-	"theme": "AppKit.sublime-theme",
-	"trim_automatic_white_space": false
+	"theme": "Refined-Light.sublime-theme",
+	"trim_automatic_white_space": false,
+	"rulers": [ 100 ]
 }

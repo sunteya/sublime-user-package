@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1343226923,
+	"auto_upgrade_last_run": 1343837291,
 	"installed_packages":
 	[
 		"Alignment",
@@ -19,6 +19,7 @@
 		"nginx",
 		"Package Control",
 		"Rails Latest Migration",
+		"RSpec",
 		"rsub",
 		"SCSS",
 		"SideBarEnhancements",

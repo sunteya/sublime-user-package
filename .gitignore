@@ -1,1 +1,4 @@
 *.pyc
+Package Control.cache/
+Package Control.system-ca-bundle
+Package Control.last-run

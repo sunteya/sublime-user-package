@@ -1,17 +1,8 @@
 [
-	{ "keys": ["super+ctrl+r", "m"], "command": "list_rails_models" },
-	{ "keys": ["super+ctrl+r", "c"], "command": "list_rails_controllers" },
-	{ "keys": ["super+ctrl+r", "v"], "command": "list_rails_views" },
-	{ "keys": ["super+ctrl+r", "j"], "command": "list_rails_javascripts" },
-	{ "keys": ["super+ctrl+r", "s"], "command": "list_rails_stylesheets" },
-	
 	// SublimeERB (ERB Insert and Toggle Commands)
 	{ "keys": ["ctrl+shift+."], "command": "erb", "context":
 		[
 			{ "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
 		]
-	},
-	
-	// Alignment
-	{ "keys": ["super+ctrl+alt+]"], "command": "alignment" }
+	}
 ]

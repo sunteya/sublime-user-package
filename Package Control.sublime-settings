@@ -1,37 +1,29 @@
 {
-	"auto_upgrade_last_run": 1343837291,
 	"installed_packages":
 	[
-		"Alignment",
-		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"Boron Color Scheme",
 		"Case Conversion",
-		"Clipboard History",
-		"CoffeeScript",
-		"Color Scheme - Frontend Delight",
-		"ColorPicker",
-		"CTags",
-		"DetectSyntax",
+		"Devastate",
 		"EncodingHelper",
-		"ERB Insert and Toggle Commands",
-		"INI",
-		"JsFormat",
+		"FullScreenStatus",
+		"GitGutter",
+		"Harper Color Scheme",
 		"MarkdownEditing",
-		"nginx",
-		"Package Control",
+		"MarkdownTOC",
 		"Rails Latest Migration",
 		"RSpec",
 		"rsub",
+		"RubyTest",
+		"Schemr",
 		"SCSS",
 		"SideBarEnhancements",
-		"Simple Rails Navigator",
+		"SSH Config",
+		"SublimeERB",
+		"Table Editor",
 		"Tag",
-		"Theme - Aqua",
-		"Theme - Refined",
-		"Theme - Soda",
-		"ToggleQuotes"
-	],
-	"repositories":
-	[
-		"http://github.com/ttscoff/MarkdownEditing"
+		"Typewriter"
 	]
 }

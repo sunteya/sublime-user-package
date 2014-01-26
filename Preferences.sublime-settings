@@ -1,13 +1,16 @@
 {
-	"color_scheme": "Packages/Theme - Refined/Color Schemes/Monokai Refined.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
 	"draw_white_space": "all",
-	"font_size": 13.0,
+	"font_size": 14,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
-	"scroll_past_end": true,
-	"theme": "Refined-Light.sublime-theme",
-	"trim_automatic_white_space": false,
-	"rulers": [ 100 ]
+	"rulers":
+	[
+		100
+	],
+	"theme": "Refined-Light.sublime-theme"
 }

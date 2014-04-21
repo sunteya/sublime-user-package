@@ -15,6 +15,13 @@
             "rules": [
                 {"file_name": ".*/.ssh/config$"}
             ]
+        },
+
+        { 
+            "name": "Ruby/Ruby",
+            "rules": [
+                { "file_name": ".*/.pryrc" }
+            ]
         }
     ]
 }

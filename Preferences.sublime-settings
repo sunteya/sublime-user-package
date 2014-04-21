@@ -1,16 +1,59 @@
 {
-	"color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
+	"color_scheme": "Packages/User/base16-monokai.dark (SL).tmTheme",
 	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"tags",
+		"*.log"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"tmp/cache",
+		"tags",
+		"public/assets",
+		"www/assets",
+		"coverage",
+		"tmp/deploy"
+	],
 	"font_size": 14,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"Markdown"
+		"MarkdownTOC",
+		"Markdown",
+		"Schemr"
 	],
 	"rulers":
 	[
 		100
 	],
-	"theme": "Refined-Light.sublime-theme"
+	"theme": "Refined-Light.sublime-theme",
+	"word_wrap": false
 }

@@ -1,0 +1,55 @@
+{
+    "syntaxmgr_settings": [
+        {
+            "scopes": [ "source.java", "source.js", "source.css" ],
+            "settings": {
+                "tab_size": 4,
+                "translate_tabs_to_spaces": false
+            }
+        },
+        {
+            "scopes": [
+                "text.html.ruby",
+                "source.ruby",
+                "source.yaml",
+                "source.coffee",
+                "source.scss"
+            ],
+            "settings": {
+                "tab_size": 2,
+                "translate_tabs_to_spaces": true
+            }
+        },
+
+        // {
+        //     "scopes": [ "source.js" ],
+        //     "settings": {
+        //         "syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+        //     }
+        // },
+        // {
+        //     "extensions": ["coffee"],
+        //     "settings": {
+        //         "syntax": "Packages/Colorcoder/CoffeeScript (Colorcoded).tmLanguage"
+        //     }
+        // },
+        {
+            "scopes": [ "text.html.markdown" ],
+            "settings": {
+                // "color_scheme": "Packages/Base16 Color Schemes/base16-bright.dark.tmTheme",
+                // "color_scheme": "Packages/Base16 Color Schemes/base16-chalk.dark.tmTheme",
+                // "color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
+                // "color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
+                // "color_scheme": "Packages/Boron Color Scheme/Boron.tmTheme",
+                // "color_scheme": "Packages/Theme - Refined/Color Schemes/Danro.tmTheme",
+                "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+                "enable_table_editor": true,
+                "draw_centered": false,
+                "highlight_line": true,
+                "line_numbers": true,
+                "rulers": [ 100 ],
+                "word_wrap": false
+            }
+        }
+    ]
+}

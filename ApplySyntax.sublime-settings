@@ -7,20 +7,21 @@
     // The format is exactly the same as "name" in the rules below. For example, if you want to have a new file use
     // JavaScript syntax, set new_file_syntax to 'JavaScript'.
     "new_file_syntax": false,
+    "add_exts_to_lang_settings": false,
 
     // Put your custom syntax rules here:
     "syntaxes": [
         {
             "name": "SSH Config/SSH Config",
             "rules": [
-                {"file_name": ".*/.ssh/config$"}
+                { "file_name": ".*/.ssh/config$" }
             ]
         },
-
-        { 
-            "name": "Ruby/Ruby",
+        {
+            "name": [ "Ruby/Ruby" ],
             "rules": [
-                { "file_name": ".*/.pryrc" }
+                { "file_name": ".*/.pryrc" },
+                { "file_name": ".*\\.cap" }
             ]
         }
     ]

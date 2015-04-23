@@ -23,6 +23,12 @@
                 { "file_name": ".*/.pryrc" },
                 { "file_name": ".*\\.cap" }
             ]
+        },
+        {
+            "name": [ "Groovy/Groovy" ],
+            "rules": [
+                { "file_name": ".*\\.gradle$" }
+            ]
         }
     ]
 }

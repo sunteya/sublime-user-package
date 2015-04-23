@@ -1,9 +1,13 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AlignTab",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Babel",
 		"Base16 Color Schemes",
 		"Better CoffeeScript",
 		"Boron Color Scheme",
@@ -26,6 +30,7 @@
 		"MarkdownEditing",
 		"MarkdownTOC",
 		"nginx",
+		"Package Control",
 		"Pretty JSON",
 		"Rails Latest Migration",
 		"RSpec",

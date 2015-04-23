@@ -6,3 +6,5 @@ ApplySyntax.ext-list
 Package Control.merged-ca-bundle
 Package Control.user-ca-bundle
 /SublimeLinter/*.tmTheme
+Rails.disabled-snippets/HTML (Rails).tmLanguage
+Rails.disabled-snippets/sublimelinter.version

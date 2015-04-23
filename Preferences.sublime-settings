@@ -47,13 +47,14 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"All Autocomplete",
 		"Markdown",
-		"Typewriter",
 		"FullScreenStatus",
 		"Schemr",
-		"Vintage",
-		"MarkdownTOC",
-		"JavaScript"
+		"ScopeHunter",
+		"Typewriter",
+		"JavaScript",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

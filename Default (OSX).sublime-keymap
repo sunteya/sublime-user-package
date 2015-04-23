@@ -4,5 +4,16 @@
 		[
 			{ "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
 		]
-	}
+	},
+	{ "keys": ["super+alt+down"], "command": "goto_definition" },
+	{ "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+	{ "keys": ["ctrl+i"], "command": "indent_and_braces" },
+	{ "keys": ["alt+/"], "command": "auto_complete" },
+	{ "keys": ["alt+/"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
 ]

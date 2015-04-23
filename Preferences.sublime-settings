@@ -24,7 +24,8 @@
 		"*.db",
 		"*.sublime-workspace",
 		"tags",
-		"*.log"
+		"*.log",
+		".*~"
 	],
 	"folder_exclude_patterns":
 	[
@@ -40,22 +41,32 @@
 		"coverage",
 		"tmp/deploy"
 	],
-	"font_face": "Inconsolata",
+	"font_face": "Ricty",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Schemr",
 		"Markdown",
+		"Typewriter",
+		"FullScreenStatus",
+		"Schemr",
+		"Vintage",
 		"MarkdownTOC",
-		"Vintage"
+		"JavaScript"
 	],
-	"original_color_scheme": "Packages/User/base16-monokai.dark (SL).tmTheme",
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"original_color_scheme": "Packages/User/SublimeLinter/base16-monokai.dark (SL).tmTheme",
+	"remember_open_files": false,
 	"rulers":
 	[
 		100
 	],
+	"show_encoding": true,
 	"theme": "Refined-Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
